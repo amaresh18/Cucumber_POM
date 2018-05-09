@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.services.restutility;
+package com.services.restutilities;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

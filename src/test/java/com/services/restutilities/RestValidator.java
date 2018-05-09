@@ -1,4 +1,4 @@
-package com.services.restutility;
+package com.services.restutilities;
 
 import java.util.HashMap;
 import java.util.Set;
