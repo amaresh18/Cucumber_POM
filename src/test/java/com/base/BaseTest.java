@@ -1,4 +1,4 @@
-package com.cucumber.base;
+package com.base;
 import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -8,7 +8,7 @@ public class BaseTest
     @BeforeClass
     public void launchBrowser(){
     driver = new FirefoxDriver();
-    driver.get("https://www.adventuresbydisney.com/");
+    driver.get("https://www.google.com/");
     }
     
 }

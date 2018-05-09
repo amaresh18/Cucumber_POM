@@ -1,4 +1,4 @@
-package com.cucumber.selenium;
+package com.selenium;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.cucumber.base.BaseTest;
+import com.base.BaseTest;
  
 public class SafeActions extends BaseTest
 {

@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 
-import com.cucumber.selenium.SafeActions;
+import com.selenium.SafeActions;
 
 import cucumber.api.java.en.Given;
  
