@@ -12,7 +12,7 @@ public enum ExtentProperties {
     private String projectName;
 
     ExtentProperties() {
-        this.reportPath = "output" + File.separator + "Run_" + System.currentTimeMillis() + File.separator
+        this.reportPath = "Reports" + File.separator + "Run_" + System.currentTimeMillis() + File.separator
                 + "report.html";
         this.projectName = "default";
     }
